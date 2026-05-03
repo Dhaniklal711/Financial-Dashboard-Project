@@ -95,6 +95,4 @@ The dataset contains financial information such as:
 3. Interact with filters and visuals  
 4. Analyze financial performance  
 
----
 
-## 📌 Project Structure
